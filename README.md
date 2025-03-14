@@ -5,8 +5,12 @@
 
 ### Self Introduction
 
-A student from SJTU who loves things about Internet 
-Here is my illustration drawn by Matsuyama Akira-gen
+A student from SJTU who loves things about Internet
+
+Youcan call me Kilox,Kilostring,KiloxGo,KG if you like it!
+
+Here is my illustration drawn by Matsuyama Akira-gen,it's ctue,yes.
+
 ***Currently Busy with school work and unavailable.***  
 
 ### Overall Status
