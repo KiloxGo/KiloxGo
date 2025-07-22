@@ -9,7 +9,7 @@ A student from SJTU who loves things about Internet
 
 You can call me Kilox,Kilostring,KiloxGo,KG or 千弦if you like it!
 
-Here is my illustration drawn by Matsuyama Komoto,it's ctue,yes.(This is my original character. Please do not use it. )
+This is my original character. Please do not use it.
 
 ***Currently Busy with school work and unavailable.***  
 
