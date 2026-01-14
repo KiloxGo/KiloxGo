@@ -23,4 +23,11 @@
 ### Some Stats.
 
 <!--START_SECTION:waka-->
+
+```txt
+Markdown     11 mins         █████████████████░░░░░░░░   67.99 %
+HTML         5 mins          ███████▒░░░░░░░░░░░░░░░░░   29.70 %
+TypeScript   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.31 %
+```
+
 <!--END_SECTION:waka-->
