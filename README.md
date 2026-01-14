@@ -1,17 +1,26 @@
-<div style="position:relative; display: flex; flex-wrap: nowrap;"> 
-    <img style='position:absolute; z-index:1;' src='github-metrics.svg' alt="github-metrics.svg"/>
-    <img style='position:absolute; z-index:2;' src='https://raw.githubusercontent.com/kiloxgo/kiloxgo/main/kiloxFigureIllustration.webp' width='300px' alt="kg.webp"/>
-</div> 
+### 👋You found me at last.
 
-### Self Introduction
+### About Me
 
-A student from SJTU who loves things about Internet
+📄My name is Kilox who is currently studying EE at SJTU and I am not very emotionally intelligent so I'm really sorry if I hurt u.
 
-You can call me Kilox,Kilostring,KiloxGo,KG or 千弦if you like it!
+🌐My working languages are Chinese🇨🇳 and English🇬🇧(poor).It's a bit early for me to pick up another language(
 
-This is my original character. Please do not use it.
+📧If you'd like to get in touch with me,please email me at kiloxgo@gmail.com.😝
 
-***Currently Busy with school work and unavailable.***  
+💻And sorry——I'm not very good with code.
 
-### Overall Status
-[![Readme Card](https://github-readme-stats-one-bice.vercel.app/api?username=kiloxgo&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)](https://github.com/anuraghazra/github-readme-stats)
+### Maybe Useful Things
+
+📖My favorite manga artist is Tatsuki Fujimoto,u'll enjoy his short manga.
+
+🟦I'm now looking for the color in my life,maybe a person or maybe a hobby.
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/8f567a80-41ae-47cf-ac1d-90832083bae9" width="60%"/>
+</p>
+
+### Some Stats.
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
