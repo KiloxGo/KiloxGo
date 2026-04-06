@@ -25,11 +25,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown         15 hrs 48 mins  ███████████████░░░░░░░░░░   59.92 %
-Python           4 hrs           ███▓░░░░░░░░░░░░░░░░░░░░░   15.19 %
-TypeScript       1 hr 32 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.83 %
-JavaScript       1 hr 10 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 %
-RGBDS Assembly   52 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.32 %
+Markdown         22 hrs 1 min    ████████████████▓░░░░░░░░   66.90 %
+Python           4 hrs           ███░░░░░░░░░░░░░░░░░░░░░░   12.17 %
+JavaScript       1 hr 25 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 %
+TypeScript       1 hr 20 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 %
+RGBDS Assembly   52 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.66 %
 ```
 
 <!--END_SECTION:waka-->
