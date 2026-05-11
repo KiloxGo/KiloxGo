@@ -25,9 +25,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   2 hrs 7 mins    ████████████████▒░░░░░░░░   65.19 %
-Other      55 mins         ███████░░░░░░░░░░░░░░░░░░   28.29 %
-Assembly   12 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.52 %
+Markdown   2 hrs 23 mins   ████████████████░░░░░░░░░   64.12 %
+Other      1 hr 7 mins     ███████▓░░░░░░░░░░░░░░░░░   30.17 %
+Assembly   12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.72 %
 ```
 
 <!--END_SECTION:waka-->
