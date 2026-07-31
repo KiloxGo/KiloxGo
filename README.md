@@ -25,11 +25,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown                   41 mins         ███████████████░░░░░░░░░░   59.78 %
-Python                     10 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.96 %
-Bash                       6 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.05 %
-TypeScript                 5 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 %
-Nginx configuration file   3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.03 %
+Markdown   1 hr 4 mins     █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
