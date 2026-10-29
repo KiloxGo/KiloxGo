@@ -25,11 +25,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Swift              7 hrs 3 mins    ████████████▓░░░░░░░░░░░░   50.96 %
-Markdown           3 hrs 26 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.89 %
-Python             1 hr 24 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.12 %
-SRecode Template   50 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.12 %
-Git Config         24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 %
+Swift              7 hrs 3 mins    █████████████▓░░░░░░░░░░░   54.30 %
+Markdown           2 hrs 43 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.97 %
+Python             1 hr 24 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.78 %
+SRecode Template   50 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.53 %
+Git Config         24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.17 %
 ```
 
 <!--END_SECTION:waka-->
