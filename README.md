@@ -19,17 +19,3 @@
 <p align="center">
 <img src="https://github.com/user-attachments/assets/8f567a80-41ae-47cf-ac1d-90832083bae9" width="60%"/>
 </p>
-
-### Some Stats.
-
-<!--START_SECTION:waka-->
-
-```txt
-Python       41 mins         █████████▒░░░░░░░░░░░░░░░   36.99 %
-Swift        33 mins         ███████▒░░░░░░░░░░░░░░░░░   29.99 %
-Markdown     15 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.37 %
-TypeScript   15 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.54 %
-CSS          2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
-```
-
-<!--END_SECTION:waka-->
